@@ -1,0 +1,11 @@
+.videotitle {
+    background-color: transparent;
+    border: transparent;
+    color: black;
+    font-size: 1rem;
+    font-family: inherit;
+    padding: 0.5rem 0.5rem;
+    max-width: 100px;
+    display: grid;
+    justify-content: center;
+}

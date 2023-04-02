@@ -1,0 +1,16 @@
+.thumbnail {
+    height: 145px;
+    width: 145px;
+    object-fit: cover;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+  }
+  
+  .column {
+    flex:50%;
+    padding: 5px;
+  }
